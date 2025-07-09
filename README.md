@@ -74,7 +74,7 @@ Use the interactive menu to:
 ## Author
 
 Developed by Hussein Rookba for educational use and practical training in Python programming.
-
+husseinayman3009@gmail.com
 ---
 
 Feel free to expand this system with features like product editing, customer IDs, or loading from saved files on startup.
