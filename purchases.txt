@@ -1,0 +1,5 @@
+Customer: Chips
+- Chips (x10)
+- Milk (x5)
+Total: $100.00
+

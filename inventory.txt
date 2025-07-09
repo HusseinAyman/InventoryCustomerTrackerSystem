@@ -1,0 +1,2 @@
+001,Milk,10.0,5,milks
+Chips,Chips,5.0,5,chips
